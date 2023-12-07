@@ -4,6 +4,9 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
+  - ykchong45/realtime-plot-py
+  - ykchong45/lens-app
+  - ykchong45/jetson-tracking-person
   # - alshedivat/al-folio
   # - twbs/bootstrap
   # - jekyll/jekyll
