@@ -5,6 +5,7 @@ description: a human tracking postprocessing program in Python
 img: 
 importance: 4
 category: fun
+giscus_comments: true
 ---
 
 This Google Colab project involves the development of a realtime human tracking application on Nvidia Jetson. In a practical Jetson use case, it is crucial to have TensorRT support for the DL model. While SSD MobileNet v2 is commonly optimized for Jetson, my aim is to experiment with and assess the performance of CenterNet.

@@ -5,6 +5,7 @@ description: a fast realtime scatter plot in Python
 img: assets/img/imu-realtime-recording.gif
 importance: 3
 category: fun
+giscus_comments: true
 ---
 
 Check it out on my Github repo [realtime-plot-py](https://github.com/ykchong45/realtime-plot-py).
@@ -15,8 +16,6 @@ This program runs really fast, over 400 frames per second, on a Zephyrus 14G lap
 
 To visualize your own data, refer to the `data_sources/dummy_data_source.py` file for guidance.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/imu-realtime-recording.gif" title="jetson person tracking" class="img-fluid rounded z-depth-1" %}
-    </div>
+<div class="row justify-content-center">
+    {% include figure.html path="assets/img/imu-realtime-recording.gif" title="jetson person tracking" class="img-fluid rounded z-depth-1" %}
 </div>

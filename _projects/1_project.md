@@ -5,7 +5,7 @@ description: a chat service that allows user to send tokens to the other party
 img: assets/img/dechat.png
 importance: 1
 category: fun
-# related_publications: einstein1956investigations, einstein1950meaning
+giscus_comments: true
 ---
 
 [🔗 EthOnline 2022 project page](https://ethglobal.com/showcase/de-chat-rr8zk)

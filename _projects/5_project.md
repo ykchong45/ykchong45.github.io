@@ -5,6 +5,7 @@ description: a windows walkthrough on decoding GK2A satellite image
 img: 
 importance: 3
 category: fun
+giscus_comments: true
 ---
 
 In a group project focused on receiving and decoding data from the [GK2A satellite](https://nmsc.kma.go.kr/enhome/html/base/cmm/selectPage.do?page=satellite.gk2a.intro), my team of 5 collaborated on various aspects, including receiving antenna design, software-defined radio (SDR) programming, demodulation, decoding, and final image generation.
@@ -23,8 +24,6 @@ For a more comprehensive understanding of the satellite's data encoding chain, a
 
 Finally, take a look at some of the images we generated from the signal that traveled a considerable distance to reach us: 
 
-<div class="row">
-    <div class="flex items-center justify-center h-screen">
-        {% include figure.html path="assets/img/gk2a.gif" title="our weather image" class="img-fluid rounded z-depth-1" %}
-    </div>
+<div class="row justify-content-center">
+    {% include figure.html path="assets/img/gk2a.gif" title="our weather image" class="img-fluid rounded z-depth-1" %}
 </div>

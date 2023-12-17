@@ -5,6 +5,7 @@ description: a capital-efficient lending protocol
 img: assets/img/keep-finance-2.png
 importance: 3
 category: fun
+giscus_comments: true
 ---
 
 [🔗 ETHNYC 2022 Project Page](https://ethglobal.com/showcase/keep-finance-eqci6)
