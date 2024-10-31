@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Computer Engineering Master's student at UC San Diego.
+subtitle: Computer Engineering Master's student at <b>UC San Diego</b>.
 
 profile:
   align: right
@@ -28,7 +28,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-👋 Hello! I'm Ken, a master's student in Computer Engineering at UC San Diego. My journey has been shaped by experiences in Singapore, Malaysia, China, and Japan, where I previously worked at [LP-Research](https://www.lp-research.com) in Tokyo as a software engineer. Currently, I’m diving into backend engineering, AI, and HCI, with a focus on building technology that better connects people.
+👋 Hello! I'm ***Ken***, a master's student in Computer Engineering at UC San Diego 🏖️. 
+
+My journey has been shaped by experiences in Singapore 🇸🇬, Malaysia 🇲🇾, China 🇨🇳, and Japan 🇯🇵, where I previously worked at [LP-Research](https://www.lp-research.com) in Tokyo 🗼 as a software engineer. Currently, I’m diving into **backend engineering**, **AI**, and **HCI**, with a focus on building technology that better connects people.
 
 In my professional journey, I’ve contributed in several impactful ways:
 

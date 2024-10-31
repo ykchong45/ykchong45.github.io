@@ -17,5 +17,5 @@ This program runs really fast, over 400 frames per second, on a Zephyrus 14G lap
 To visualize your own data, refer to the `data_sources/dummy_data_source.py` file for guidance.
 
 <div class="row justify-content-center">
-    {% include figure.html path="assets/img/imu-realtime-recording.gif" title="jetson person tracking" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/imu-realtime-recording.gif" title="jetson person tracking" class="img-fluid rounded z-depth-1" %}
 </div>

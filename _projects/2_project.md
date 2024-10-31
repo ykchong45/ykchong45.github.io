@@ -22,19 +22,19 @@ Our authentication process works like this:
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="https://storage.googleapis.com/ethglobal-api-production/projects%2Fc8jez%2Fimages%2FWechatIMG217.png" title="jetson person tracking" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="https://storage.googleapis.com/ethglobal-api-production/projects%2Fc8jez%2Fimages%2FWechatIMG217.png" title="jetson person tracking" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="https://storage.googleapis.com/ethglobal-api-production/projects%2Fc8jez%2Fimages%2FWechatIMG216.png" title="jetson person tracking" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="https://storage.googleapis.com/ethglobal-api-production/projects%2Fc8jez%2Fimages%2FWechatIMG216.png" title="jetson person tracking" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="https://storage.googleapis.com/ethglobal-api-production/projects%2Fc8jez%2Fimages%2FWechatIMG215.png" title="jetson person tracking" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="https://storage.googleapis.com/ethglobal-api-production/projects%2Fc8jez%2Fimages%2FWechatIMG215.png" title="jetson person tracking" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="https://storage.googleapis.com/ethglobal-api-production/projects%2Fc8jez%2Fimages%2FWechatIMG214.png" title="jetson person tracking" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="https://storage.googleapis.com/ethglobal-api-production/projects%2Fc8jez%2Fimages%2FWechatIMG214.png" title="jetson person tracking" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 

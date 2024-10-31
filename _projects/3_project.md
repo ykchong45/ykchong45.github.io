@@ -16,18 +16,18 @@ We've built the protocol on *Polygon* and *Optimism* testnets using Hardhat. Use
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="https://storage.googleapis.com/ethglobal-api-production/projects%2Feqci6%2Fimages%2FMargins.png" title="trading page" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="https://storage.googleapis.com/ethglobal-api-production/projects%2Feqci6%2Fimages%2FMargins.png" title="trading page" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="https://storage.googleapis.com/ethglobal-api-production/projects%2Feqci6%2Fimages%2FPools.png" title="stake token page" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="https://storage.googleapis.com/ethglobal-api-production/projects%2Feqci6%2Fimages%2FPools.png" title="stake token page" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="https://storage.googleapis.com/ethglobal-api-production/projects%2Feqci6%2Fimages%2Fphoto_2022-06-26_10-48-59.jpg" title="demo day" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="https://storage.googleapis.com/ethglobal-api-production/projects%2Feqci6%2Fimages%2Fphoto_2022-06-26_10-48-59.jpg" title="demo day" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="https://storage.googleapis.com/ethglobal-api-production/projects%2Feqci6%2Fimages%2FTeam%20Photo%202.jpg" title="hacker friends" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="https://storage.googleapis.com/ethglobal-api-production/projects%2Feqci6%2Fimages%2FTeam%20Photo%202.jpg" title="hacker friends" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

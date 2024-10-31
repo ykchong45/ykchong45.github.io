@@ -24,12 +24,12 @@ Leveraging web3 tech like XMTP and IPFS, De-Chat aims to enhance chat experience
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="https://storage.googleapis.com/ethglobal-api-production/projects%2Frr8zk%2Fimages%2FScreenshot%202022-09-25%20at%208.07.17%20PM.png" title="send token" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="https://storage.googleapis.com/ethglobal-api-production/projects%2Frr8zk%2Fimages%2FScreenshot%202022-09-25%20at%208.07.17%20PM.png" title="send token" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="https://storage.googleapis.com/ethglobal-api-production/projects%2Frr8zk%2Fimages%2FScreenshot%202022-09-25%20at%208.07.27%20PM.png" title="chat" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="https://storage.googleapis.com/ethglobal-api-production/projects%2Frr8zk%2Fimages%2FScreenshot%202022-09-25%20at%208.07.27%20PM.png" title="chat" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="https://storage.googleapis.com/ethglobal-api-production/projects%2Frr8zk%2Fimages%2Fdechat-ipfs.png" title="send image and emoji" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="https://storage.googleapis.com/ethglobal-api-production/projects%2Frr8zk%2Fimages%2Fdechat-ipfs.png" title="send image and emoji" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

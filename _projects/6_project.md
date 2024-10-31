@@ -14,6 +14,6 @@ In the future, if deployment becomes necessary, I will explore methods to conver
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/jetson-person-tracking.gif" title="jetson person tracking" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/jetson-person-tracking.gif" title="jetson person tracking" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

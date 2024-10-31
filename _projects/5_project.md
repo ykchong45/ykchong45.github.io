@@ -18,12 +18,12 @@ For a more comprehensive understanding of the satellite's data encoding chain, a
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="https://img001.prntscr.com/file/img001/WP73ZUQzRkyAfvahWyjMwA.png" title="GK2A encoder procedure" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="https://img001.prntscr.com/file/img001/WP73ZUQzRkyAfvahWyjMwA.png" title="GK2A encoder procedure" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 Finally, take a look at some of the images we generated from the signal that traveled a considerable distance to reach us: 
 
 <div class="row justify-content-center">
-    {% include figure.html path="assets/img/gk2a.gif" title="our weather image" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/gk2a.gif" title="our weather image" class="img-fluid rounded z-depth-1" %}
 </div>
