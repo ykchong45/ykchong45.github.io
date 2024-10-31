@@ -10,9 +10,9 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: 
   # >
-  #   <p>Minamiazabu</p>
-  #   <p>Minato-ku, 106-0047</p>
-  #   <p>Tokyo, Japan</p>
+  #   <p>3787 Miramar St</p>
+  #   <p>La Jolla, CA</p>
+  #   <p>92037</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -28,7 +28,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-👋 Hello! I'm ***Ken***, a master's student in Computer Engineering at UC San Diego 🏖️. 
+👋 Hello! I'm ***Ken***, a master's student in Computer Engineering at [University of California, San Diego](https://ucsd.edu/) 🏖️. 
 
 My journey has been shaped by experiences in Singapore 🇸🇬, Malaysia 🇲🇾, China 🇨🇳, and Japan 🇯🇵, where I previously worked at [LP-Research](https://www.lp-research.com) in Tokyo 🗼 as a software engineer. Currently, I’m diving into **backend engineering**, **AI**, and **HCI**, with a focus on building technology that better connects people.
 
