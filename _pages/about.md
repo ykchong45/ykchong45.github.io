@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Software Engineer at <a href='https://www.lp-research.com/'>LP Research Inc.</a>
+subtitle: Computer Engineering Master's student at UC San Diego.
 
 profile:
   align: right
@@ -28,17 +28,21 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-👋 Hello! I'm Yk, a software engineer on a journey shaped by the diverse cultures of Singapore, Malaysia, China, and Japan. Currently, I find myself exploring the realms of AI and HCI, hoping to bridge technology with people.
+👋 Hello! I'm Ken, a master's student in Computer Engineering at UC San Diego. My journey has been shaped by experiences in Singapore, Malaysia, China, and Japan, where I previously worked at [LP-Research](https://www.lp-research.com) in Tokyo as a software engineer. Currently, I’m diving into backend engineering, AI, and HCI, with a focus on building technology that better connects people.
 
-In my professional journey, I've had the chance to contribute in small but meaningful ways:
+In my professional journey, I’ve contributed in several impactful ways:
 
-- Core contributor to a [large-scale wireless VR streaming solution](https://www.lp-research.com/siggraph-los-angeles-2023/).
-- Contributed to [OpenZen](https://bitbucket.org/lpresearch/openzen/src/master/), an open-sourced sensor library.
-- Developed a multisensor logging program.
+- **Large-Scale VR**: Developed LPVR-AIR, a multi-user VR system deployed across multiple design centers and showcased at [SIGGRAPH 2023](https://www.lp-research.com/siggraph-los-angeles-2023/), enhancing VR's modularity and network communication.
+- **Open-Source Sensor Library**: Core maintainer of [OpenZen](https://bitbucket.org/lpresearch/openzen/src/master/), an open-source sensor library for streaming data, with implementations supporting diverse projects in edge computing.
+- **Decentralized Finance Platform**: Led the development of a decentralized trading platform, designing scalable backends, optimizing state management, and coordinating cross-functional teams to align with key business goals.
 
-Additionally, I've taken part in leading and developing fullstack projects in *DeFi, eCommerce* and *web2 fields*. There are in my projects page!
+More details are available on my [CV](/cv).
 
-📫 If you'd like to connect, drop me a message via email, Instagram, or LinkedIn. I'm always up for discussions and meeting awesome people!
+I’ve also held leadership roles in *eCommerce* and *hackathon* projects. Check out my [projects page](/projects) for a closer look at my work.
+
+📫 Let’s connect! Reach out via email, Instagram, or LinkedIn—I’m always open to discussing new ideas and meeting amazing people.
+
+
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
