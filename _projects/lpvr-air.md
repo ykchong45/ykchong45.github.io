@@ -3,7 +3,7 @@ layout: page
 title: LPVR-AIR
 description: large-area VR and AR tracking solution
 img: assets/img/siggraph-2023.png
-importance: 1
+importance: 0
 category: fun
 giscus_comments: true
 ---
@@ -18,13 +18,11 @@ The solution that we brought to the site: we attached Optitrack active marker ta
 
 Thanks to everyone who visited our booth, tried the trike experience, and pedaled their way around the track!
 
-[🔗 Another usecase for design center](https://www.lp-research.com/lpvr-air-for-immersive-collaborative-industrial-design/)
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/me-at-siggraph.png" title="me-at-siggraph-with-klaus" class="img-fluid rounded z-depth-1" %}
-    </div>
+<div class="mx-auto" style="max-width: 30vw">
+    {% include figure.html path="assets/img/me-at-siggraph.png" title="me-at-siggraph-with-klaus" class="img-fluid rounded z-depth-1" %}
 </div>
+
+---
 
 More: 
 
