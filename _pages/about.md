@@ -28,16 +28,18 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-👋 Hello! I'm ***Ken*** (Yongkin), a master's student in Computer Engineering at [University of California, San Diego](https://ucsd.edu/) 🏖️. 
+👋 Hello! I'm ***Ken*** (Yongkin), a master's student in Computer Engineering at [University of California, San Diego](https://ucsd.edu/), and previously earned my bachelor’s at [Tsinghua University](https://www.tsinghua.edu.cn/en/).
 
-My journey has been shaped by experiences in Singapore 🇸🇬, Malaysia 🇲🇾, China 🇨🇳, and Japan 🇯🇵, where I've worked at [Amazon AWS](https://www.linkedin.com/company/amazon-web-services) as a software engineer intern, and at [LP-Research](https://www.lp-research.com) as a developer. Currently, I’m diving into **backend engineering**, **AI**, and **HCI**, with a focus on building technology that better connects people.
+My journey has been shaped by experiences in Singapore 🇸🇬, Malaysia 🇲🇾, China 🇨🇳, and Japan 🇯🇵, where I've worked at [Amazon AWS](https://www.linkedin.com/company/amazon-web-services) as a software engineer intern, and at [LP-Research](https://www.lp-research.com) as a developer. Currently, I’m diving into **backend engineering**, **AI/ML**, and **HCI**, with a focus on leveraging technology to better assist people.
 
 In my professional journey, I’ve contributed in several impactful ways:
 
-- **AWS Deep Learning Infrastructure**: Revamped the container build engine, cutting build time by 20%. Implemented ECR layer caching, resulting in a 90% reduction in subsequent builds. Contributing to systems that power real-world AI and ML workloads, now driving all future builds and releases of the team
+- **Deep Learning Infrastructure**: Revamped the [docker image build engine](https://github.com/aws/deep-learning-containers), reducing build time by 20% and subsequent builds by 90%, driving core systems powering global AI/ML workloads and team releases.
 
 - **Large-Scale VR**: Developed LPVR-AIR, a multi-user VR system deployed across multiple design centers and showcased at [SIGGRAPH 2023](https://www.lp-research.com/siggraph-los-angeles-2023/), enhancing VR's modularity and network communication.
+
 - **Open-Source Sensor Library**: Core maintainer of [OpenZen](https://bitbucket.org/lpresearch/openzen/src/master/), an open-source sensor library for streaming data, with implementations supporting diverse projects in edge computing.
+
 - **Decentralized Finance Platform**: Led the development of a decentralized trading platform, designing scalable backends, optimizing state management, and coordinating cross-functional teams to align with key business goals.
 
 More details are available on my [CV](/cv).
