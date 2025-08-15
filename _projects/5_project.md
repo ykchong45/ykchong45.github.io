@@ -2,7 +2,7 @@
 layout: page
 title: GK2A Satellite image decoder
 description: a windows walkthrough on decoding GK2A satellite image
-img: 
+img: assets/img/gk2a.gif
 importance: 3
 category: fun
 giscus_comments: true

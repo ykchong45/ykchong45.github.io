@@ -2,7 +2,7 @@
 layout: page
 title: Jetson-based Human Tracking
 description: a human tracking postprocessing program in Python
-img: 
+img: assets/img/jetson-person-tracking.gif
 importance: 4
 category: fun
 giscus_comments: true
