@@ -19,7 +19,7 @@ The solution that we brought to the site: we attached Optitrack active marker ta
 Thanks to everyone who visited our booth, tried the trike experience, and pedaled their way around the track!
 
 <div class="mx-auto" style="max-width: 30vw">
-    {% include figure.html path="assets/img/me-at-siggraph.png" title="me-at-siggraph-with-klaus" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/me-at-siggraph.png" title="me-at-siggraph-with-klaus" class="img-fluid rounded z-depth-1" %}
 </div>
 
 ---
@@ -30,6 +30,6 @@ More:
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/lpvr-vred.png" title="lpvr-vred-design-use" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/lpvr-vred.png" title="lpvr-vred-design-use" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
