@@ -10,9 +10,9 @@ giscus_comments: true
 
 [🔗 ETHNYC 2022 Project Page](https://ethglobal.com/showcase/keep-finance-eqci6)
 
-Keep Finance is a lending protocol we designed during hackathon ETHNYC 2022 to empower traders, lenders, and suppliers by leveraging the extensive liquidity available in lending protocols for margin trading. Initially supporting USDC, ETH, and Matic, the protocol will extend its offerings. 
+Keep Finance is a lending protocol we designed during hackathon ETHNYC 2022 to empower traders, lenders, and suppliers by leveraging the extensive liquidity available in lending protocols for margin trading. Initially supporting USDC, ETH, and Matic, the protocol will extend its offerings.
 
-We've built the protocol on *Polygon* and *Optimism* testnets using Hardhat. Users can connect to the protocol seamlessly through *Wallet Connect*. The *Chainlink API* fetches on-chain asset prices, while the *Covalent API* retrieves off-chain prices. Every transaction is recorded on the subgraph using *The Graph Protocol*. Our protocol is supported by *1inch* swap contracts, and integrating the codes with their APIs posed a challenge that we successfully navigated.
+We've built the protocol on _Polygon_ and _Optimism_ testnets using Hardhat. Users can connect to the protocol seamlessly through _Wallet Connect_. The _Chainlink API_ fetches on-chain asset prices, while the _Covalent API_ retrieves off-chain prices. Every transaction is recorded on the subgraph using _The Graph Protocol_. Our protocol is supported by _1inch_ swap contracts, and integrating the codes with their APIs posed a challenge that we successfully navigated.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

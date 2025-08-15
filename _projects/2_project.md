@@ -16,9 +16,9 @@ Our authentication process works like this:
 
 1. Patients receive their diagnosis information from the hospital.
 2. Patients send the hash value of their address and disease information, along with proof and the hospital's signature, to the smart contract.
-4. The smart contract employs zk technology to verify whether the patient has the access to certain board of the forum.
-5. Upon confirmation, the corresponding SBT (soulBound token) is issued to the patient's address.
-6. With the obtained SBT, users gain access to the relevant channel on Hippocratic Island for communication. This SBT is not transferrable. 
+3. The smart contract employs zk technology to verify whether the patient has the access to certain board of the forum.
+4. Upon confirmation, the corresponding SBT (soulBound token) is issued to the patient's address.
+5. With the obtained SBT, users gain access to the relevant channel on Hippocratic Island for communication. This SBT is not transferrable.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

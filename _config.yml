@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Yong Kin
-middle_name: 
+middle_name:
 last_name: Chong
 # contact_note: >
 #   You can even add a little note about which of these is the best way to reach you.
@@ -100,15 +100,15 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.
 giscus:
-  repo: ykchong45/ykchong45.github.io                         # <your-github-user-name>/<your-github-repo-name>
+  repo: ykchong45/ykchong45.github.io # <your-github-user-name>/<your-github-repo-name>
   repo_id: MDEwOlJlcG9zaXRvcnkyMjEzOTI4ODI=
-  category: Comments             # name of the category under which discussions will be created
+  category: Comments # name of the category under which discussions will be created
   category_id: DIC_kwDODTIv8s4Cbibp
-  mapping: title                 # identify discussions by post title
-  strict: 1                      # use strict identification mode
-  reactions_enabled: 1           # enable (1) or disable (0) emoji reactions
-  input_position: bottom         # whether to display input form below (bottom) or above (top) the comments
-  theme: preferred_color_scheme  # name of the color scheme (preferred works well with al-folio light/dark mode)
+  mapping: title # identify discussions by post title
+  strict: 1 # use strict identification mode
+  reactions_enabled: 1 # enable (1) or disable (0) emoji reactions
+  input_position: bottom # whether to display input form below (bottom) or above (top) the comments
+  theme: preferred_color_scheme # name of the color scheme (preferred works well with al-folio light/dark mode)
   emit_metadata: 0
   lang: en
 

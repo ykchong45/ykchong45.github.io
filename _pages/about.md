@@ -2,13 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
+subtitle:
 
 profile:
   align: right
   image: prof-pic.png
   image_circular: false # crops the image to make it circular
-  more_info: 
+  more_info:
   # >
   #   <p>3787 Miramar St</p>
   #   <p>La Jolla, CA</p>
@@ -28,7 +28,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-👋 Hello! I'm ***Ken*** (Yongkin), a master's student in Computer Engineering at [University of California, San Diego](https://ucsd.edu/), and previously earned my bachelor’s at [Tsinghua University](https://www.tsinghua.edu.cn/en/).
+👋 Hello! I'm **_Ken_** (Yongkin), a master's student in Computer Engineering at [University of California, San Diego](https://ucsd.edu/), and previously earned my bachelor’s at [Tsinghua University](https://www.tsinghua.edu.cn/en/).
 
 My journey has been shaped by experiences in Singapore 🇸🇬, Malaysia 🇲🇾, China 🇨🇳, and Japan 🇯🇵, where I've worked at [Amazon AWS](https://www.linkedin.com/company/amazon-web-services) as a software engineer intern, and at [LP-Research](https://www.lp-research.com) as a developer. Currently, I’m diving into **backend engineering**, **AI/ML**, and **HCI**, with a focus on leveraging technology to better assist people.
 
@@ -44,11 +44,9 @@ In my professional journey, I’ve contributed in several impactful ways:
 
 More details are available on my [CV](/cv).
 
-I’ve also held leadership roles in *eCommerce* and *hackathon* projects. Check out my [projects page](/projects) for a closer look at my work.
+I’ve also held leadership roles in _eCommerce_ and _hackathon_ projects. Check out my [projects page](/projects) for a closer look at my work.
 
 📫 Let’s connect! Reach out via email, Instagram, or LinkedIn — I’m always open to discussing new ideas and meeting amazing people.
-
-
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

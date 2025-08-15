@@ -22,7 +22,7 @@ For a more comprehensive understanding of the satellite's data encoding chain, a
     </div>
 </div>
 
-Finally, take a look at some of the images we generated from the signal that traveled a considerable distance to reach us: 
+Finally, take a look at some of the images we generated from the signal that traveled a considerable distance to reach us:
 
 <div class="row justify-content-center">
     {% include figure.liquid path="assets/img/gk2a.gif" title="our weather image" class="img-fluid rounded z-depth-1" %}

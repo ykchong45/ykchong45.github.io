@@ -24,7 +24,7 @@ Thanks to everyone who visited our booth, tried the trike experience, and pedale
 
 ---
 
-More: 
+More:
 
 [🔗 Another use case for design center](https://www.lp-research.com/lpvr-air-for-immersive-collaborative-industrial-design/)
 
